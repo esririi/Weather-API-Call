@@ -1,0 +1,10 @@
+C:\Users\monster\Desktop\C#Projeleri\Weather-API-Call\Weather-API-Call\Weather-API-Call\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\monster\Desktop\C#Projeleri\Weather-API-Call\Weather-API-Call\Weather-API-Call\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\monster\Desktop\C#Projeleri\Weather-API-Call\Weather-API-Call\Weather-API-Call\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\monster\Desktop\C#Projeleri\Weather-API-Call\Weather-API-Call\Weather-API-Call\API\obj\Debug\netcoreapp3.1\API.csproj.AssemblyReference.cache
+C:\Users\monster\Desktop\C#Projeleri\Weather-API-Call\Weather-API-Call\Weather-API-Call\API\obj\Debug\netcoreapp3.1\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\Desktop\C#Projeleri\Weather-API-Call\Weather-API-Call\Weather-API-Call\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\monster\Desktop\C#Projeleri\Weather-API-Call\Weather-API-Call\Weather-API-Call\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\monster\Desktop\C#Projeleri\Weather-API-Call\Weather-API-Call\Weather-API-Call\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\C#Projeleri\Weather-API-Call\Weather-API-Call\Weather-API-Call\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\monster\Desktop\C#Projeleri\Weather-API-Call\Weather-API-Call\Weather-API-Call\API\obj\Debug\netcoreapp3.1\API.pdb
